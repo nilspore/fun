@@ -1,3 +1,5 @@
+ https://www.youtube.com/watch?v=lnBbzAmFx8g&ab_channel=TopPop
+ 
  *   Clojure
  *   Copyright (c) Rich Hickey. All rights reserved.
  *   The use and distribution terms for this software are covered by the
